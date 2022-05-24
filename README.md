@@ -1,1 +1,1 @@
-# I am learning 
+# Titanic survival prediction using Logistic Regression
